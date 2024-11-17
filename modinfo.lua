@@ -1,7 +1,7 @@
 -- 名称
-name = "Torch Enhancement"
+name = "火把增强"
 -- 描述
-description = "Sample Mod"
+description = "火把增强"
 -- 作者
 author = "css"
 -- 版本
@@ -9,7 +9,6 @@ version = "0.1"
 -- klei官方论坛地址，为空则默认是工坊的地址
 forumthread = ""
 -- modicon
-icon_atlas = "modicon.xml"
 icon = "modicon.tex"
 -- dst兼容
 dst_compatible = true
