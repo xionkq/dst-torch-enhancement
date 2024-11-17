@@ -1,14 +1,15 @@
 -- 名称
 name = "火把增强"
 -- 描述
-description = "火把增强"
+description = "这个模组允许你修改火把的耐久度。（10倍、100倍或无限耐久）"
 -- 作者
 author = "css"
 -- 版本
-version = "0.1"
+version = "0.5"
 -- klei官方论坛地址，为空则默认是工坊的地址
 forumthread = ""
 -- modicon
+icon_atlas = "modicon.xml"
 icon = "modicon.tex"
 -- dst兼容
 dst_compatible = true
